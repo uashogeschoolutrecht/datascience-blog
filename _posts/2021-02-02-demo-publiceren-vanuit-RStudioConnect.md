@@ -2,6 +2,7 @@
 layout: post
 title:  "Hoe publiceer ik een data-product via RStudio?"
 date:   2021-02-02 15:40:20 +0100
+by: Marc Teunis
 ---
 
 {% include rstudio-connect-video.html %}
