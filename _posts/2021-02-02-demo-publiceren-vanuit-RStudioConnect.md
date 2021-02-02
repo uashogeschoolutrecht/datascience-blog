@@ -1,4 +1,8 @@
-# Hoe publiceer ik een data-product via RStudio?
+---
+layout: post
+title:  "Hoe publiceer ik een data-product via RStudio?!"
+date:   2021-02-02 15:40:20 +0100
+---
 
 <div style"position: relative; padding - bottom:56.25 %; overflow: hidden; "><iframe allowfullscreen="" scrolling="auto" src="https://stream.hu.nl/players/0hVzppt9-wtzy1Zaa.html" style = "position:relative;" width = "640" height = "360" frameborder = "0" ></iframe></div>
 
@@ -7,32 +11,40 @@ Als onderzoeker wil je graag een idee krijgen van de patronen die in je data zit
  
 
 
-# Links van de demo 
+### Links van de demo
 
-## docs 
+### Docs
+
 https://datascience.hu.nl 
 
-## aanvragen workspaces 
+### aanvragen workspaces
+
 https://askhu.sharepoint.hu.nl/informatie-items/Paginas/Data-analyse-omgeving- aanvragen.aspx 
 
-## RStudio::CONNECT server 
+### RStudio::CONNECT server
+
 https://datascience.hu.nl/rsconnect 
 
-## RMarkdown 
+### RMarkdown
+
 https://bookdown.org/yihui/rmarkdown/ https://achale.gitlab.io/tutorialmarkdownthesis/ https://rmarkdown.rstudio.com/ 
 
-## static covid example 
+### static covid example
+
 https://datascience.hu.nl/rsconnect/covid_rmd/ 
 
-## github source 
+### github source
+
 https://github.com/uashogeschoolutrecht/covid_demo 
 
-## Shiny example 
+### Shiny example
+
 https://datascience.hu.nl/rsconnect/covid-app 
 
-## flipbook 
+### flipbook
+
 https://datascience.hu.nl/rsconnect/connect/#/apps/27/access 
 
-## fully fledged dashboard 
-https://datascience.hu.nl/rsconnect/celegans/ 
+### fully fledged dashboard
 
+https://datascience.hu.nl/rsconnect/celegans/ 
