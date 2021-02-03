@@ -25,3 +25,18 @@ Als onderzoeker wil je graag een idee krijgen van de patronen die in je data zit
 - [Shiny Example](https://datascience.hu.nl/rsconnect/covid-app)
 - [Flipbook](https://datascience.hu.nl/rsconnect/connect/#/apps/27/access)
 - [Dashboard Example](https://datascience.hu.nl/rsconnect/celegans/)
+
+## Code walkthrough (in English for reproducibility reasons)
+Coding examples, documentation and demos are mostly written in English. To align with the jargon and terms used in those demos, I am writing the demo below in English
+
+## Setup
+To get started with publshing your data products form RStudio you need to set up a few things:
+ 
+ 1. Go to https://datascience.hu.nl/rsconnect/connect/ and click the get started button to register your account. This is the HU RStudio::CONNECT server that functions as a landing place for hosting you data products online.
+ 2.Set up a Github account if you have not already have on. If you are serious about Data Science, you need a Github account. See [this blog]()
+
+ 
+
+
+
+
