@@ -7,7 +7,7 @@ by: Rins Rutgers
 
 Door Rins Rutgers
 
-{% include rstudio-connect-video.html %}
+{% include connect-hu-rd-video.html %}
 
 In deze video wordt uitgelegd hoe je een folder in HU research drive via WebDav kunt koppelen aan je HPC Cloud workspace met R Studio.
 
