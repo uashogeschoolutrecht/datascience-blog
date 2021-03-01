@@ -24,18 +24,25 @@ Als onderzoeker wil je graag een idee krijgen van de patronen die in je data zit
 - [GitHub Source](https://github.com/uashogeschoolutrecht/covid_demo)
 - [Shiny Example](https://datascience.hu.nl/rsconnect/covid-app)
 - [Flipbook](https://datascience.hu.nl/rsconnect/connect/#/apps/27/access)
-- [Dashboard Example](https://datascience.hu.nl/rsconnect/celegans/)
 
 ## Code walkthrough (in English for reproducibility reasons)
-Coding examples, documentation and demos are mostly written in English. To align with the jargon and terms used in those demos, I am writing the demo below in English
+Coding examples, documentation and demos are mostly written in English. To align with the jargon and terms used in those demos, I am writing the demo below in English.
 
 ## Setup
 To get started with publshing your data products form RStudio you need to set up a few things:
  
- 1. Go to https://datascience.hu.nl/rsconnect/connect/ and click the get started button to register your account. This is the HU RStudio::CONNECT server that functions as a landing place for hosting you data products online.
- 2.Set up a Github account if you have not already have on. If you are serious about Data Science, you need a Github account. See [this blog]()
-
+ 1. Go to https://datascience.hu.nl/rsconnect/connect/ and click the get started button to register your account. This is the HU RStudio::CONNECT server that functions as a landing place for hosting you data products online
+ 2.Set up a Github account if you do not already have on. If you are serious about Data Science, you need a Github account. See [this blog]()
+ 3. An RStudio installation. You can apply for a HU RStudio workspace [here](https://hogeschoolutrecht.topdesk.net/tas/public/ssp/content/serviceflow?unid=ebffb71962a94de68aa4f81ec25402fe). If you have administrative right on your (HU) laptop, you can also install R and RStudio locally. If you are new to R and RStudio. [Here](https://education.rstudio.com/learn/beginner/) is a good starting point
  
+## Ready?, Get set!, Go!! 
+ 
+The ideal work flow is to first start with an empty github repository on github.com. Than we clone that repository to our RStudio environment. From RStudio we are going to create a simple RMarkdown file containing a short data analysis and some graphs. Once the RMarkdown is finished we will first render it locally to an html page. This way we can inspect the 'product' and check it's contents. Once we are satisfied, we will publish this product to the HU RStudio::CONNECT server. I will show you how you can than change the permission to view this webpage, so that you can share it with others.
+
+## Create a new empty Github repo
+The IT jargon for repository is repo, so if you want to sound like you know what you are talking about: use 'repo'. Once you login to your Github ccount, you can easily create a new github repo by clicking the green `New` button in your account repository home.
+ 
+![create a new repo](/assets/demo-publiceren-vanuit-RStudioConnect/new_repo.png) 
 
 
 

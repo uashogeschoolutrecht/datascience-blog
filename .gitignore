@@ -5,3 +5,4 @@ _site
 vendor
 .Rproj.user
 datascience-blog.Rproj
+.Rhistory
