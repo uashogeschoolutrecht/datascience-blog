@@ -698,7 +698,7 @@ knitr::include_graphics(
 )
 ```
 
-<img src="/blog/assets/python_env.png" width="1920" />
+![]("/blog/assets/python_env.png" width="1920")
 
 ```r
 knitr::include_graphics(
